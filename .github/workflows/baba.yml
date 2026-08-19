@@ -6,7 +6,7 @@ on:
   push:
 
 jobs:
-  Kiem tra phien ban:
+  Kiem-tra-phien-ban:
     runs-on: ubuntu-latest
 
     steps:
